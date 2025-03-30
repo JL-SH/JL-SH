@@ -2,7 +2,7 @@
     <h1 align="center">Hi👋, I'm José Luis <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 </div>
 
-<img src="" alt="My GitHub Banner"/>
+<img src="banner.png" alt="My GitHub Banner"/>
 
 ## 🌟 About Me
 
@@ -69,7 +69,7 @@ fun main() {
 
 - **Softwares and Tools**:
 
-    [![My Skills](https://skillicons.dev/icons?i=vscode,intellij,androidstudio,github)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=vscode,idea,androidstudio,github)](https://skillicons.dev)
 </p>
 
 ## 🛠️ My Projects
