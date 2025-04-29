@@ -81,6 +81,5 @@ Here are some of my favorite projects:
 ## 📣 Contact Me
 
 - 📧 [Email](mailto:your-email@example.com)
-- 📱 **Phone**: 611695610
 
 ---
