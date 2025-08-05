@@ -78,8 +78,6 @@ Here are some of my favorite projects:
 
 1. **[POO-GUELIKE](https://github.com/JL-SH/POO-GUELIKE)**: A project I developed as part of my studies, focused on object-oriented programming principles. It’s a fun and challenging game based on the "Guelike" concept.
 
-2. **[UserSpring](https://github.com/JL-SH/UserSpring)**: A Java RESTful API for managing user data and authentication in web and mobile apps. It supports secure registration, login, role assignment, and profile updates, offering a scalable and secure solution for developers and system administrators.
-
 ## 📣 Contact Me
 
 - 📧 [Email](mailto:your-email@example.com)
