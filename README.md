@@ -2,8 +2,6 @@
     <h1 align="center">Hi👋, I'm José Luis <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 </div>
 
-<img src="banner.png" alt="My GitHub Banner"/>
-
 ## 🌟 About Me
 
 ```kotlin
