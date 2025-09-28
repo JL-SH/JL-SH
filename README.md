@@ -55,7 +55,7 @@ fun main() {
 
 - **Technologies**:
 
-    [![My Skills](https://skillicons.dev/icons?i=git,docker,linux)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 <br>   
     
