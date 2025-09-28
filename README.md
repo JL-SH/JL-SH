@@ -9,7 +9,7 @@ class JoseLuis {
     val name = "José Luis"
     val username = "JL-SH"
     val location = "Spain"
-    val education = "Student, aspiring Mobile Developer"
+    val profile = "Software Developer | Java & Kotlin | Spring Boot | Android | REST APIs"
     val languages = listOf("Kotlin", "Java", "Python")
     val techStack = listOf("Android", "Git", "Docker", "Linux", "PostgreSQL", "MySQL")
 
@@ -30,7 +30,7 @@ class JoseLuis {
 
 fun main() {
     val me = JoseLuis()
-    println("Hi, I'm ${me.name}, a mobile development enthusiast!")
+    println("Hi, I'm ${me.name}, a Software Developer!")
     println("Ambitions:")
     me.ambitions().forEach { println("- $it") }
     println("Favorite project: ${me.favoriteProject()}")
